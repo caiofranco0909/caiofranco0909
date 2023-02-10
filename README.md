@@ -9,3 +9,5 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiofranco0909)](https://github.com/anuraghazra/github-readme-stats)
+
+=>[Currículo.pdf](https://github.com/caiofranco0909/caiofranco0909/files/10702537/Curriculo.pdf)<=
